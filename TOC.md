@@ -2,30 +2,30 @@
 
 Cahier des charges
 
-Information sur l’entreprise
-
-Informations sur le projet
-
-	Contexte actuel
+	Information sur l’entreprise
 	
-	Objectif visé
+	Informations sur le projet
 	
-	Attentes et objectifs du site
-	
-	Contexte du projet
-	
-	Public Cible
-	
-	Persona
-	
-	Fonctionnalités
-	
-	Communication
-	
-	Consultation
-	
-	Rôle des intervenants
-	
-	Matériel existant
-	
-	Comité de pilotage
+		Contexte actuel
+		
+		Objectif visé
+		
+		Attentes et objectifs du site
+		
+		Contexte du projet
+		
+		Public Cible
+		
+		Persona
+		
+		Fonctionnalités
+		
+		Communication
+		
+		Consultation
+		
+		Rôle des intervenants
+		
+		Matériel existant
+		
+		Comité de pilotage
